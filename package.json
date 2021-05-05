@@ -1,0 +1,22 @@
+{
+  "name": "gmail-now",
+  "version": "1.0.0",
+  "description": "Dead-simple gmail REST client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bass3l/gmail-now.git"
+  },
+  "author": "Bassel Shmali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bass3l/gmail-now/issues"
+  },
+  "homepage": "https://github.com/bass3l/gmail-now#readme",
+  "dependencies": {
+    "googleapis": "^73.0.0"
+  }
+}
